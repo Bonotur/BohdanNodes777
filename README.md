@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BohdanNodes777
+- 👋 Hi, I’m @Bonotur
 - 👀 I’m interested in exploring the intersection of technology and finance, including blockchain and cryptocurrency.
 - 🌱 I’m currently learning more about web development and how it can be applied in various industries.
 - 💞️ I’m looking to connect with others who are interested in the same topics and learn more about potential opportunities.
